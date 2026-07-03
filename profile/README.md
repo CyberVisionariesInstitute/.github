@@ -4,25 +4,23 @@ CyberVisionaries Institute is a workforce development and professional training 
 
 ---
 
-## PKI Career Pathway Cohort
+## Our Programs
 
-The PKI Career Pathway is a structured, multi-phase program designed to develop:
+**Cyber Foundations (Tier I)**
+A 12-week beginner cohort covering digital infrastructure, networking and cloud fundamentals, practical cryptography, security fundamentals, and IAM — aligned to CompTIA A+, Network+, and Security+. Students build a 5-deliverable GitHub portfolio incrementally across the program, clearing them for Tier II Specialization.
 
-- Foundational Public Key Infrastructure (PKI) knowledge  
-- Hands-on lab competency  
-- Certificate lifecycle management understanding  
-- Real-world architecture thinking  
-- Portfolio-ready technical artifacts  
+**PKI Career Pathway Cohort (Tier II Specialization)**
+A structured, multi-phase program developing foundational Public Key Infrastructure (PKI) knowledge, hands-on lab competency, certificate lifecycle management understanding, real-world architecture thinking, and portfolio-ready technical artifacts.
 
 ---
 
 ## What You'll Find Here
 
-- PKI foundational lab repositories  
-- Weekly instructional materials  
-- Capstone project frameworks  
-- Student portfolio templates  
-- Architecture documentation examples  
+- Program lab repositories (instructor and student template repos, one pair per program)
+- Weekly instructional materials
+- Capstone project frameworks
+- Student portfolio templates
+- Architecture documentation examples
 
 ---
 
@@ -32,5 +30,5 @@ To bridge the cybersecurity skills gap by equipping professionals with structure
 
 ---
 
-CyberVisionaries Institute  
+CyberVisionaries Institute
 Professional Development & Workforce Training
