@@ -26,7 +26,7 @@ A structured, multi-phase program developing foundational Public Key Infrastruct
 
 ## Start Here: CVI Cohort Handbook
 
-Read the CVI Cohort Handbook first — it covers onboarding, program structure, and expectations before you touch any labs.
+Read the **[CVI Cohort Handbook](https://github.com/CyberVisionariesInstitute/cvi-cohort-handbook)** first — it covers onboarding, program structure, and expectations before you touch any labs.
 
 ## Our Mission
 
